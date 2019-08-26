@@ -3,7 +3,7 @@
 
 /* *Autor: Luis Eduardo Cortez Gonzalez
    *Fecha: 25/08/2019
-   *Grupo: 
+   *Grupo: 008
    *Horario: Sabado 9:00am - 11:00am
    *Matricula: 1546624
    */
