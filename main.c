@@ -2,7 +2,7 @@
 #include <stdlib.h>
 /* Autor: Luis Eduardo Cortez Gonzalez
    Fecha: 31/08/2019
-   grupo:
+   grupo: 001
    Horario: Sabado 9am-11am
    Matricula: 1546624*/
 
